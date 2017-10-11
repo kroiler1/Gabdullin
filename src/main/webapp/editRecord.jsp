@@ -11,7 +11,7 @@
 <head>
     <meta charset="utf-8">
     <title>
-        Страница редактирования, motherfucker
+        Edit_Record
     </title>
 </head>
 <body>
@@ -21,25 +21,7 @@
         <th>ID</th>
         <th>FIO</th>
         <th>Number</th>
-        <th>Change</th>
-    </tr>
-    <tr>
-        <td>1</td>
-        <td>Иванов Иван Иванович</td>
-        <td>+77781459543</td>
-        <td><input type="submit" value="Change"></td>
-    </tr>
-    <tr>
-        <td>2</td>
-        <td>Петров Пётр Петрович</td>
-        <td>+77023532467</td>
-        <td><input type="submit" value="Change"></td>
-    </tr>
-    <tr>
-        <td>3</td>
-        <td>Сидоров Михаил Николаевич</td>
-        <td>+77772225500</td>
-        <td><input type="submit" value="Change"></td>
+        <th>Adress</th>
     </tr>
 </table>
 </body>
